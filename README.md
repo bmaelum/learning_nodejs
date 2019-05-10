@@ -2,7 +2,7 @@
 # Learning Node.js
 
 <p align="center">
-  <img src="images/bartre-dagslys-eviggronn-388065.jpg" width="600"/>
+  <img src="images/nodejs_logo.png" width="600"/>
 </p>
 
 ### Inspiration
