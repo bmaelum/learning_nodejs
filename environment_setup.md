@@ -1,9 +1,9 @@
 # Environment Setup
 
 ## Local Environment Setup
-If you are still willing to set up your environment for Node.js, you need the following two softwares available on your computer,
-a) Text Editor and
-b) The Node.js binary installables.
+If you are still willing to set up your environment for Node.js, you need the following two softwares available on your computer:  
+a) Text Editor  
+b) The Node.js binary installables
 
 ##Text Editor
 This will be used to type your program. Examples of few editors include Windows Notepad, OS Edit command, Brief, Epsilon, EMACS, and vim or vi.
@@ -22,7 +22,7 @@ Node.js distribution comes as a binary installable for SunOS , Linux, Mac OS X, 
 Following section guides you on how to install Node.js binary distribution on various OS.
 
 ## Download Node.js archive
-* [Nodejs Download](https://nodejs.org/en/)
+* [Node.js Download](https://nodejs.org/en/)
 
 ## Verify installation: Executing a File
 Create a js file named main.js on your machine (Windows or Linux) having the following code.
