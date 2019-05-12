@@ -21,7 +21,7 @@ Following are some of the important features that make Node.js the first choice 
 
 ## Concepts
 <p align="center">
-  <img src="images/nodejs_concepts.png" width="600"/>
+  <img src="images/nodejs_concepts.jpg" width="600"/>
 </p>
 
 ## Where to use Node.js
