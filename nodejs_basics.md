@@ -18,3 +18,20 @@ Following are some of the important features that make Node.js the first choice 
 * **No Buffering** − Node.js applications never buffer any data. These applications simply output the data in chunks.
 
 * **License** − Node.js is released under the MIT license.
+
+## Concepts
+<p align="center">
+  <img src="images/nodejs_concepts.png" width="600"/>
+</p>
+
+## Where to use Node.js
+Following are the areas where Node.js is proving itself as a perfect technology partner.
+* I/O bound Applications
+* Data Streaming Applications
+* Data Intensive Real-time Applications (DIRT)
+* JSON APIs based Applications
+* Single Page Applications
+
+
+## Where not to use Node.js
+It is not advisable to use Node.js for CPU intensive applications.
