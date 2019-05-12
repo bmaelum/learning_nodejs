@@ -12,7 +12,7 @@
 
 ## Built With
 
-* 
+*
 
 ## Authors
 
