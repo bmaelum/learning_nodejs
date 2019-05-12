@@ -5,7 +5,7 @@ If you are still willing to set up your environment for Node.js, you need the fo
 a) Text Editor  
 b) The Node.js binary installables
 
-##Text Editor
+## Text Editor
 This will be used to type your program. Examples of few editors include Windows Notepad, OS Edit command, Brief, Epsilon, EMACS, and vim or vi.
 
 Name and version of text editor can vary on different operating systems. For example, Notepad will be used on Windows, and vim or vi can be used on windows as well as Linux or UNIX.
